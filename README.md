@@ -6,4 +6,33 @@
 
 
 
+
+
+
+
+
 This workflow describes the HTTP Request method / API Integration to connect external tools in n8n flows other than locally available tools 
+
+
+_____________________________________________________________________________________________
+
+
+
+
+
+
+<img width="1045" height="576" alt="Screenshot 2026-09-10 171249" src="https://github.com/user-attachments/assets/8877db0c-38dc-4eda-8daf-05cab5f84ed3" />
+
+
+
+
+
+
+
+Web Scraping with Fire Crawl (Http Connection) with Retry Loop for scraping target website 
+
+
+
+
+
+
