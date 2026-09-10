@@ -31,8 +31,17 @@ ________________________________________________________________________________
 
 Web Scraping with Fire Crawl (Http Connection) with Retry Loop for scraping target website 
 
+____________________________________________________________________________________________________________________________________________________
 
 
+
+<img width="1058" height="583" alt="Screenshot 2026-09-10 190028" src="https://github.com/user-attachments/assets/d2ebbd81-8ccd-49e1-b691-e7422f47be4d" />
+
+
+
+
+
+Web Scraping Using Apify Tool and Extracting the Important Fields (Example Top 20 Dentists in Hyderabad and Address)
 
 
 
