@@ -57,3 +57,19 @@ ________________________________________________________________________________
 Automatic Social Media Posts using 2 Agents,Tavily and Gemini 
 
 
+
+
+
+_______________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+<img width="1061" height="595" alt="Stock_Analysis" src="https://github.com/user-attachments/assets/b3dfbaf5-5848-4420-8e8f-823aa74f6349" />
+
+
+
+Stock Analysis Agent with Telegram Bot Trigger and Chart-IMG API and LLM tools
+
+
