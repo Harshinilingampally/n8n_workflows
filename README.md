@@ -45,3 +45,15 @@ Web Scraping Using Apify Tool and Extracting the Important Fields (Example Top 2
 
 
 
+
+________________________________________________________________________________________________________________________________________________________
+
+
+
+<img width="1043" height="566" alt="image" src="https://github.com/user-attachments/assets/1b9b49fc-e8b7-4032-a7fc-a3c6661dd14b" />
+
+
+
+Automatic Social Media Posts using 2 Agents,Tavily and Gemini 
+
+
