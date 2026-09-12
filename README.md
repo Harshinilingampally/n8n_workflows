@@ -73,3 +73,15 @@ ________________________________________________________________________________
 Stock Analysis Agent with Telegram Bot Trigger and Chart-IMG API and LLM tools
 
 
+
+
+
+___________________________________________________________________________________________________________________________________________________________________
+
+
+<img width="1052" height="581" alt="image" src="https://github.com/user-attachments/assets/ee1a5cf8-0549-4e61-87a0-35bd244cc652" />
+
+
+
+Using External Memory (Postgres) for AI Agennt and Vector Database using SupaBase for RAG Implementation
+
