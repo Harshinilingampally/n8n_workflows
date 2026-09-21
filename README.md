@@ -85,3 +85,11 @@ ________________________________________________________________________________
 
 Using External Memory (Postgres) for AI Agennt and Vector Database using SupaBase for RAG Implementation
 
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+<img width="1032" height="577" alt="Global_Leads_scraper" src="https://github.com/user-attachments/assets/a61e0b38-2a08-4bc8-889f-5f9aeb94225e" />
+
+
+Global Leads Scraper using Apify , FireCrawl , SupaBase and Postgres for DataBase and Claude  
+
